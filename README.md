@@ -66,5 +66,5 @@ GUI-File-Packer-Unpacker/
 ---
 
 ## 👤 Author
-**Vaibhav Patil**  
-[LinkedIn](https://www.linkedin.com/in/cs-er-vaibhav/) | [GitHub](https://github.com/vaibhavpatilX)
+Prashant Todmal
+

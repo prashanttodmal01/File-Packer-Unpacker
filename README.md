@@ -36,4 +36,5 @@ More advanced encryption algorithms (AES/RSA)
 Drag & drop file support in GUI
 Cross-platform support
 👤 Author
-Prashant Raosaheb Todmal 
+Vaibhav Patil
+LinkedIn | GitHub
